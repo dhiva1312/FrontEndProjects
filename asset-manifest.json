@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.08d7b3e7.css",
+    "main.js": "/static/js/main.1ae863ae.js",
+    "static/media/about.png": "/static/media/about.619ff0b319a55d0c05b1.png",
+    "static/media/hero.png": "/static/media/hero.f14f30c6d01a97df04f6.png",
+    "static/media/Black Flatlay Photo Motivational Finance Quote Facebook Cover.png": "/static/media/Black Flatlay Photo Motivational Finance Quote Facebook Cover.7ee18ac15ca55ecfe69b.png",
+    "static/media/resume.jpg": "/static/media/resume.40d9ec3d0701d254f50f.jpg",
+    "static/media/ecommerce_websites.jpg": "/static/media/ecommerce_websites.62a2a2616171bfc3cd88.jpg",
+    "static/media/food-ecommerce.jpg": "/static/media/food-ecommerce.326353bf18adc9f60576.jpg",
+    "static/media/signup-flow.png": "/static/media/signup-flow.7ccd2a7296426adf65d6.png",
+    "static/media/DHIVAKAR.png": "/static/media/DHIVAKAR.a4a5eeb35e79801bdb39.png",
+    "index.html": "/index.html",
+    "main.08d7b3e7.css.map": "/static/css/main.08d7b3e7.css.map",
+    "main.1ae863ae.js.map": "/static/js/main.1ae863ae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08d7b3e7.css",
+    "static/js/main.1ae863ae.js"
+  ]
+}
