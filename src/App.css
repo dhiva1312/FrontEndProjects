@@ -6,10 +6,10 @@ header ul li{
   @apply px-8
 }
 .bg-primary{
-  background-color: #ccc;
+  background-color:  rgb(255,192,197);
 }
 .bg-secondary{
-  background-color: #2b2d77;
+  background-color: rgb(201,238,230);
 }
 .mobile-nav{
   @apply fixed top-10 bg-gray-800 w-full h-1/4 left-0;

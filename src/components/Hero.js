@@ -2,7 +2,7 @@ import heroimg from '../assets/hero.png'
 import { AiOutlineTwitter, AiOutlineInstagram, AiOutlineLinkedin } from "react-icons/ai";
 export default function Hero(){
     return <section className='flex flex-col md:flex-row px-5 py-32 bg-secondary justify-center ' id='hero'>
-        <div className='w-1/2 flex flex-col'>  <h1 className=' text-white text-6xl font-hero-font'>Hi, <br/> Im<span className='text-black' > Dhivakar </span>
+        <div className='w-1/2 flex flex-col'>  <h1 className=' text-white text-6xl font-hero-font'>Hi,Im<span className='text-black' > Dhivakar </span>
         <p className='text-2xl'>Software Developer</p>
         </h1>
         <div className='flex py-10 '>
